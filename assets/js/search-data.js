@@ -52,11 +52,41 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-筚路维艰-hard-steps",
+      },{id: "books-crime-and-punishment",
+          title: 'Crime and Punishment',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/cnp/";
+            },},{id: "books-我与地坛-i-and-the-temple-of-earth",
+          title: '我与地坛 (I and the Temple of Earth)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ditan/";
+            },},{id: "books-筚路维艰-hard-steps",
           title: '筚路维艰 (Hard Steps)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hard_steps/";
+            },},{id: "books-napoleon",
+          title: 'Napoleon',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/napoleon/";
+            },},{id: "books-一句顶一万句-sinotheroy",
+          title: '一句顶一万句 (Sinotheroy)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/sinotheroy/";
+            },},{id: "books-steve-jobs",
+          title: 'Steve Jobs',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/steve_jobs/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/three_keys/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
