@@ -52,11 +52,11 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-筚路维艰-hard-steps",
+          title: '筚路维艰 (Hard Steps)',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/hard_steps/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
