@@ -1,2 +1,12 @@
-- date: 2025-04-22
-  title: "Hello World!"
+- date: 2024-12-15
+  title: "Paper accepted to ICLR 2025!"
+  url: https://openreview.net/forum?id=abc123
+
+- date: 2024-11-01
+  inline: true
+  content: >
+    Started internship at MSR Asia! 🚀
+
+- date: 2024-10-10
+  title: "Released RingFormer preprint!"
+  url: https://arxiv.org/abs/2401.12345
