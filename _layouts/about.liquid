@@ -51,13 +51,14 @@ layout: default
     <!-- 清除浮动 -->
     <div class="clearfix"></div>
 
-    <!-- News 模块 -->
+    <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
+
 
     <!-- Selected Papers 模块 -->
     {% if page.selected_papers %}
