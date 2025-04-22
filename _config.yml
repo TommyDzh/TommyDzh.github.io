@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Tommy Ding Zhihao (丁志浩)  # 网站标题，浏览器标签显示内容
+title:   # Tommy, Ding Zhihao (丁志浩)
 first_name: Tommy
-middle_name: Zhihao
-last_name: Ding (丁志浩)
+middle_name: Ding (丁志浩)
+last_name: Zhihao
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
