@@ -1,3 +1,6 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  <p class="small text-muted" style="margin-bottom: 0.5rem;">
+    * denotes equal contributions
+  </p>
+  {% bibliography --group_by none --query @*[selected=true]* --sort year-desc %}
 </div>
