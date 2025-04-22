@@ -401,23 +401,23 @@ ul.task-list input[type="checkbox"] {
   text-align: left;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem; // 原来是 4rem，可以减小整体比例
 
     a {
       img {
-        width: 3.2rem;
-        height: 3.2rem;
-        margin-bottom: 1rem;
+        width: 2rem;      // 原来是 3.2rem
+        height: 2rem;
+        margin-bottom: 0.5rem; // 调整间距更紧凑
       }
 
       svg {
-        width: 3.5rem;
-        height: 4rem;
+        width: 2rem;      // 原来是 3.5rem
+        height: 2rem;
         margin-bottom: 0.5rem;
 
         image {
-          width: 3.5rem;
-          height: 3.5rem;
+          width: 2rem;
+          height: 2rem;
         }
       }
 

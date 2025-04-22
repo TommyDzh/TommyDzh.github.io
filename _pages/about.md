@@ -28,7 +28,7 @@ latest_posts:
 ---
 <!-- Email: tommy-zh.ding@connect.polyu.hk -->
 
-I am a Ph.D. candidate in the Department of Computing, The Hong Kong Polytechnic University, supervised by [Dr. Jieming Shi](https://www4.comp.polyu.edu.hk/~jiemshi/). Previously, I received my Master’s degree in Computer Science from Xi’an Jiaotong University in 2022, under the supervision of [Prof. Yadong Zhou](https://gr.xjtu.edu.cn/web/ydzhou), and my B.Eng. degree from Northeastern University (China) in 2019.
+I am a Ph.D. candidate in the Department of Computing, The Hong Kong Polytechnic University, supervised by [Dr. Jieming Shi](https://www4.comp.polyu.edu.hk/~jiemshi/). Previously, I received my Master’s degree from Xi’an Jiaotong University in 2022, under the supervision of [Prof. Yadong Zhou](https://gr.xjtu.edu.cn/web/ydzhou), and my B.Eng. degree from Northeastern University (China) in 2019.
 
 My research interests lie in **structured data representation learning**, with a focus on **table understanding**, **graph neural networks (GNNs)**, and **molecular machine learning**.
 
