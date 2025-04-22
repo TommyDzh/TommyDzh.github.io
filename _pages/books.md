@@ -7,9 +7,7 @@ collection: books
 nav_order: 3
 ---
 
-> 不畏浮云遮望眼，自缘身在最高层。  
-> "One is not hindered by floating clouds that blur the view,  
-> for they stand on the highest level."  
-> — *王安石（Wang Anshi）, 《登飞来峰》*
+> “The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.”  
+> — *Albert Camus, The Myth of Sisyphus and Other Essays*
 
 ## Books that I am reading, have read, or will read
