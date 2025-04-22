@@ -31,3 +31,5 @@ latest_posts:
 I am a Ph.D. candidate in the Department of Computing, The Hong Kong Polytechnic University, supervised by [Dr. Jieming Shi](https://www4.comp.polyu.edu.hk/~jiemshi/). Previously, I received my Master’s degree in Computer Science from Xi’an Jiaotong University in 2022, under the supervision of [Prof. Yadong Zhou](https://gr.xjtu.edu.cn/web/ydzhou), and my B.Eng. degree from Northeastern University (China) in 2019.
 
 My research interests lie in **structured data representation learning**, with a focus on **table understanding**, **graph neural networks (GNNs)**, and **molecular machine learning**.
+
+Outside of research, I enjoy playing football and am a passionate supporter of FC Barcelona <span title="Visca el Barça!">🔵🔴</span>. I also read extensively—especially in the areas of history and biography. Feel free to check out [bookshelf](/books/) if you're interested in what I'm exploring beyond computer science.
