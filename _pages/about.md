@@ -26,10 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Email: tommy-zh.ding@connect.polyu.hk
+<!-- Email: tommy-zh.ding@connect.polyu.hk -->
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. candidate in the Department of Computing, The Hong Kong Polytechnic University, supervised by [Dr. Jieming Shi](https://www4.comp.polyu.edu.hk/~jiemshi/). Previously, I received my Master’s degree in Computer Science from Xi’an Jiaotong University in 2022, under the supervision of [Prof. Yadong Zhou](https://gr.xjtu.edu.cn/web/ydzhou), and my B.Eng. degree from Northeastern University (China) in 2019.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie in **structured data representation learning**, with a focus on **table understanding**, **graph neural networks (GNNs)**, and **molecular machine learning**.
