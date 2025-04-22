@@ -52,7 +52,12 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-crime-and-punishment",
+      },{id: "books-love-in-the-time-of-cholera",
+          title: 'Love in the Time of Cholera',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/cholera/";
+            },},{id: "books-crime-and-punishment",
           title: 'Crime and Punishment',
           description: "",
           section: "Books",handler: () => {
@@ -82,8 +87,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/steve_jobs/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-history-in-three-keys-the-boxers-as-event-experience-and-myth",
+          title: 'History in Three Keys, The Boxers as Event, Experience, and Myth',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/three_keys/";
