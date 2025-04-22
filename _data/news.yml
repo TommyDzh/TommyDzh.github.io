@@ -1,12 +1,15 @@
+- date: 2022-09-01
+  title: "Officially started my Ph.D. journey at PolyU!"
+
+- date: 2023-03-15
+  title: "Our paper has been accepted to VLDB 2024!"
+
+- date: 2024-02-24
+  title: "Two papers accepted to CIKM 2024!"
+
 - date: 2024-12-15
-  title: "Paper accepted to ICLR 2025!"
-  url: https://openreview.net/forum?id=abc123
+  title: "Our paper has been accepted to AAAI 2025!"
 
-- date: 2024-11-01
-  inline: true
-  content: >
-    Started internship at MSR Asia! 🚀
+- date: 2025-02-24
+  title: "Attending AAAI 2025 — see you in Philadelphia!"
 
-- date: 2024-10-10
-  title: "Released RingFormer preprint!"
-  url: https://arxiv.org/abs/2401.12345
