@@ -398,37 +398,18 @@ ul.task-list input[type="checkbox"] {
 // Social (bottom)
 
 .social {
-  text-align: left;
+  text-align: center;
 
   .contact-icons {
-    font-size: 2rem; // 原来是 4rem，可以减小整体比例
+    font-size: 4rem;
 
     a {
-      img {
-        width: 2rem;      // 原来是 3.2rem
-        height: 2rem;
-        margin-bottom: 0.5rem; // 调整间距更紧凑
-      }
-
-      svg {
-        width: 2rem;      // 原来是 3.5rem
-        height: 2rem;
-        margin-bottom: 0.5rem;
-
-        image {
-          width: 2rem;
-          height: 2rem;
-        }
-      }
-
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
-        text-decoration: none;
-
         i::before {
           color: var(--global-theme-color);
         }
