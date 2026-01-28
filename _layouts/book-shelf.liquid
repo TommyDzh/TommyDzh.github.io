@@ -6,7 +6,7 @@ layout: page
 {% if page.collection and page.collection.size > 0 %}
   {% assign collection = site[page.collection] %}
   {% if collection and collection.size > 0 %}
-    {% assign grouped_items = collection | group_by_exp: "item", "item.finished | append: '' | slice: 0, 4" %}
+    {% assign grouped_items = collection | group_by_exp: "item", "item.finished | append: '' | slice: 0, 4" | sort: 'name' %}
     {% for group in grouped_items reversed %}
       {% assign year = group.name %}
       {% if year != "" %}
