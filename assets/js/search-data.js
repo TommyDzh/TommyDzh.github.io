@@ -77,8 +77,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hard_steps/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-饥饿的盛世-乾隆时代的得与失-the-prosperous-age-of-hunger",
+          title: '饥饿的盛世 乾隆时代的得与失 (The Prosperous Age of Hunger)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hungry_heyday/";
@@ -97,13 +97,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/napoleon/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-党员-党权与党争-1924-1949年中国国民党的组织形态-party-members-party-power-and-party-factionalism",
+          title: '党员、党权与党争 1924-1949年中国国民党的组织形态 (Party Members, Party Power, and Party Factionalism)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/party_power_struggle/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-红太阳是怎样升起的-延安整风运动的来龙去脉-how-the-red-sun-rose",
+          title: '红太阳是怎样升起的 延安整风运动的来龙去脉 (How the Red Sun Rose)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/red_sun/";
@@ -127,8 +127,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/three_keys/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-夹缝中的总督-曾国藩的五次生死局-the-viceroy-in-the-cracks",
+          title: '夹缝中的总督 曾国藩的五次生死局 (The Viceroy in the Cracks)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/viceroy/";
