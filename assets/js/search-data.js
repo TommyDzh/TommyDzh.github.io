@@ -52,8 +52,8 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-额尔古纳河右岸",
-          title: '额尔古纳河右岸',
+      },{id: "books-额尔古纳河右岸-the-last-quarter-of-the-moon",
+          title: '额尔古纳河右岸 (The Last Quarter of the Moon)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/argun/";
@@ -67,8 +67,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/cnp/";
-            },},{id: "books-我与地坛-i-and-the-temple-of-earth",
-          title: '我与地坛 (I and the Temple of Earth)',
+            },},{id: "books-我与地坛-the-temple-of-earth-and-i",
+          title: '我与地坛 (The Temple of Earth and I)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ditan/";
@@ -82,13 +82,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hungry_heyday/";
-            },},{id: "books-康熙的红票",
-          title: '康熙的红票',
+            },},{id: "books-康熙的红票-the-vermilion-ticket-of-kangxi",
+          title: '康熙的红票 (The Vermilion Ticket of Kangxi)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/kangxi_red_ticket/";
-            },},{id: "books-大明王朝1566",
-          title: '大明王朝1566',
+            },},{id: "books-大明王朝1566-ming-dynasty-in-1566",
+          title: '大明王朝1566 (Ming Dynasty in 1566)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ming_dynasty_1566/";
@@ -107,8 +107,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/red_sun/";
-            },},{id: "books-一句顶一万句-sinotheroy",
-          title: '一句顶一万句 (Sinotheroy)',
+            },},{id: "books-一句顶一万句-someone-to-talk-to",
+          title: '一句顶一万句 (Someone to Talk To)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sinotheroy/";
