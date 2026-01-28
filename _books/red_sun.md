@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: 红太阳是怎样升起的 : 延安整风运动的来龙去脉 (How the Red Sun Rose)
+title: 红太阳是怎样升起的 延安整风运动的来龙去脉 (How the Red Sun Rose)
 author: 高华 (Gao Hua)
 cover: assets/img/book_covers/red_sun.jpg
 categories: History, Politics
