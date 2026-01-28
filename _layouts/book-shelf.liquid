@@ -6,13 +6,22 @@ layout: page
 {% if page.collection and page.collection.size > 0 %}
   {% assign collection = site[page.collection] %}
   {% if collection and collection.size > 0 %}
+    {% assign collection = collection | sort: 'finished' %}
     {% for item in collection reversed %}
-      {% assign current_year = item.date | date: '%Y' %}
+      {% capture finished_str %}{{ item.finished }}{% endcapture %}
+      {% if finished_str contains "-" %}
+        {% assign current_year = item.finished | date: "%Y" %}
+      {% elsif finished_str != "" %}
+        {% assign current_year = finished_str %}
+      {% else %}
+        {% assign current_year = item.date | date: '%Y' %}
+      {% endif %}
+
       {% if current_year != year %}
         {% unless forloop.first %}
           </ul>
         {% endunless %}
-        <h1 id="y{{item.date | date: "%Y"}}">
+        <h1 id="y{{ current_year }}">
           <a href="{{ current_year | prepend: '/books/' | relative_url }}">{{ current_year }}</a>
         </h1>
         <ul>
