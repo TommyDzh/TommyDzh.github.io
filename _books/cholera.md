@@ -9,7 +9,7 @@ categories: Fiction, Novels, Literature
 tags: top-100
 # buy_link: https://www.chunghwabook.com.hk/book/detail/id/1378029545429738599
 started: 2024-10-06
-finished: 2024-11-11
+finished: "2024-11-11"
 released: 1985
 stars: 4
 # goodreads_review: 6318556633

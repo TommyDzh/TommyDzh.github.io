@@ -9,7 +9,7 @@ categories: Essays, Nonfiction, Literature
 tags: top-100
 # buy_link: https://www.chunghwabook.com.hk/book/detail/id/1378029545429738599
 started: 2019
-finished: 2019
+finished: "2019"
 released: 2009
 stars: 5
 # goodreads_review: 6318556633

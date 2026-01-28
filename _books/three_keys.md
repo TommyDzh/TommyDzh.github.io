@@ -9,7 +9,7 @@ categories: History
 tags: top-100
 # buy_link: https://www.chunghwabook.com.hk/book/detail/id/1378029545429738599
 started: 2020
-finished: 2020
+finished: "2020"
 released: 1997
 stars: 4
 # goodreads_review: 6318556633

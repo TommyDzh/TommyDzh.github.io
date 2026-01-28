@@ -9,7 +9,7 @@ categories: History, Politics
 tags: top-100
 buy_link: https://www.chunghwabook.com.hk/book/detail/id/1378029545429738599
 started: 2025-03-19
-finished: 2025-04-22
+finished: "2025-04-22"
 released: 2024
 stars: 5
 # goodreads_review: 6318556633
