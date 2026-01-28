@@ -52,7 +52,12 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-love-in-the-time-of-cholera",
+      },{id: "books-额尔古纳河右岸",
+          title: '额尔古纳河右岸',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/argun/";
+            },},{id: "books-love-in-the-time-of-cholera",
           title: 'Love in the Time of Cholera',
           description: "",
           section: "Books",handler: () => {
@@ -72,16 +77,31 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hard_steps/";
+            },},{id: "books-康熙的红票",
+          title: '康熙的红票',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/kangxi_red_ticket/";
             },},{id: "books-napoleon",
           title: 'Napoleon',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/napoleon/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/red_sun/";
             },},{id: "books-一句顶一万句-sinotheroy",
           title: '一句顶一万句 (Sinotheroy)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sinotheroy/";
+            },},{id: "books-source-code-my-beginnings",
+          title: 'Source Code: My Beginnings',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/source_code/";
             },},{id: "books-steve-jobs",
           title: 'Steve Jobs',
           description: "",
@@ -92,6 +112,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/three_keys/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/viceroy/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
