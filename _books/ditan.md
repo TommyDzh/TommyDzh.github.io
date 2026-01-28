@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: 我与地坛 (I and the Temple of Earth)
+title: 我与地坛 (The Temple of Earth and I)
 author: 史铁生 (Shi Tiesheng)
 cover: assets/img/book_covers/ditan.jpg
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)

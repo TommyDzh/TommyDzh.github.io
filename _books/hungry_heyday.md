@@ -1,7 +1,7 @@
 ---
 layout: book-review
-title: 饥饿的盛世 : 乾隆时代的得与失
-author: 张宏杰
+title: 饥饿的盛世 : 乾隆时代的得与失 (The Prosperous Age of Hunger)
+author: 张宏杰 (Zhang Hongjie)
 cover: assets/img/book_covers/hungry_heyday.jpg
 categories: History, Non-fiction
 tags: top-100

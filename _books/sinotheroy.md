@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: 一句顶一万句 (Sinotheroy)
+title: 一句顶一万句 (Someone to Talk To)
 author: 刘震云 (Liu Zhenyun)
 cover: assets/img/book_covers/sinotheory.jpg
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)

@@ -1,7 +1,7 @@
 ---
 layout: book-review
-title: 康熙的红票
-author: 孙立天
+title: 康熙的红票 (The Vermilion Ticket of Kangxi)
+author: 孙立天 (Sun Litian)
 cover: assets/img/book_covers/kangxi_red_ticket.jpg
 categories: History, Non-fiction
 tags: top-100
